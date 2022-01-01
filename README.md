@@ -8,3 +8,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS CodePipeline-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Route 53-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/AWS CloudFront-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
+<br/>
+<br/>
+<h1 align="center">⭐️ Study ⭐️</h1>
+
+<p align="center">
+  <a href="https://velog.io/@steel_hyuk___2"><img src="https://img.shields.io/badge/Tech Blog-Green"/></a>
+  <a href="https://www.atozsports.link/"><img src="https://img.shields.io/badge/AtoZ sports-white"/></a>
+</p>
+
