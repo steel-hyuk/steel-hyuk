@@ -13,7 +13,7 @@
 <h1 align="center">⭐️ Study ⭐️</h1>
 
 <p align="center">
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=steel_hyuk___2)](https://velog.io/@steel_hyuk___2)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@steel_hyuk___2)
   <a href="https://www.atozsports.link/"><img src="https://img.shields.io/badge/AtoZ sports-white"/></a>
 </p>
 
