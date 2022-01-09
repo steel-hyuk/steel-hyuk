@@ -2,7 +2,7 @@
 
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
-<h3 align="center"> 💪 String : 프로젝트에서 원활히 사용할 수 있음 </h3>
+<h3 align="center"> 💪 Strong : 프로젝트에서 원활히 사용할 수 있음 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
