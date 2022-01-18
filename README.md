@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS S3-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS CodePipeline-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/AWS Route 53-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS CloudFront-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 <br/>
@@ -23,6 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS EC2-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
   <img src="https://img.shields.io/badge/AWS RDS-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Route 53-E47911?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 </p>
 <br/>
 <h3 align="center"> ✍️ Interested : 흥미를 갖고 학습 중 (읽고 이해할 수 있음) </h3>
