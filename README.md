@@ -30,12 +30,3 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
   <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>-->
 </p>
-<br/>
-<br/>
-<h1 align="center">⭐️ Study ⭐️</h1>
-
-<p align="center">
-  <a href="https://velog.io/@steel_hyuk___2"><img src="https://img.shields.io/badge/Tech Blog-Green"/></a>
-  <a href="https://www.atozsports.link/"><img src="https://img.shields.io/badge/AtoZ sports-white"/></a>
-</p>
-
