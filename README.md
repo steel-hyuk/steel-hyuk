@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=header&text=Kim%20Eun%20Hyeok&fontSize=90&animation=twinkling)
-
+<!--
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
 <h3 align="center"> 💪 Strong : 프로젝트에서 원활히 사용할 수 있음 </h3>
@@ -25,3 +25,4 @@
 </p>
 </p>
 <br/>
+--!>
