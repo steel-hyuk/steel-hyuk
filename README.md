@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=header&text=Kim%20Eun%20Hyeok&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&section=header&text=Kim%20Eun%20Hyuk&fontSize=90&animation=twinkling)
 <!--
 <h1 align="center">🛠 Tech Stack 🛠</h1>
 
